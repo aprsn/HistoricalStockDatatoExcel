@@ -13,4 +13,4 @@ https://finage.co.uk/blog/collect-historical-stock-price-data-into-excel-with-py
 ### Requirements
 
 - pandas `pip3 install pandas`
-- openpyxl `pip3 install oenpyxl`
+- openpyxl `pip3 install openpyxl`
